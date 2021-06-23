@@ -1,0 +1,21 @@
+{
+    "name": "black-fenix",
+    "displayName": "Black Fenix",
+    "description": "Beautiful black theme for Visual Studio Code. We love the darkness!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Fenix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Fenix-color-theme.json"
+            }
+        ]
+    }
+}
